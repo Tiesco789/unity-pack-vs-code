@@ -1,0 +1,20 @@
+{
+    "name": "unity-pack-vs-code",
+    "displayName": "Unity Pack VS Code",
+    "publisher": "tiesco",
+    "description": "Unity Extensions pack to vs code",
+    "version": "0.0.1",
+    "repository": {},
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "Unity.unity-debug",
+        "Tobiah.unity-tools",
+        "kleber-swf.unity-code-snippets",
+        "YclepticStudios.unity-snippets"
+    ]
+}
