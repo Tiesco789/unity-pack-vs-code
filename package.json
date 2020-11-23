@@ -4,7 +4,9 @@
     "publisher": "franccesco",
     "description": "Unity Extensions pack to vs code",
     "version": "0.0.1",
-    "repository": {},
+    "repository": "https://github.com/Tiesco789/unity-pack-vs-code",
+    "icon": "unity-pack.png",
+    "license": "SEE LICENSE IN LICENSE.md",
     "engines": {
         "vscode": "^1.51.0"
     },
